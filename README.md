@@ -14,13 +14,13 @@
 
 ## Proxy VPC
 
-* Create the `proxy VPC.
+* Create the `proxy VPC`.
 
 ## Transit Gateway
 
 * Create a `TGW`.
-* link both VPC created before to it.
-* update route tables to both VPC created before.
+* Link it with both VPC.
+* Update VPCs'route tables.
 
 ## Application1
 
