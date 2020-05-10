@@ -74,7 +74,7 @@ The rest will be done during the demo.
 * from consumer 2:
   * Use `elinks --dump` to get the output of application1.
 
-## Demo 2: Create application2 Endpoint service and test it from both consumers
+## Demo 2: Create application2 Endpoint + SG and test the connectivity from both consumers
 
 * From AWS Console:
   * Create the application2 *Endpoint* in the `proxy VPC`.
